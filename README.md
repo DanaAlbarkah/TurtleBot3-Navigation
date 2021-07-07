@@ -26,6 +26,11 @@ $ roslaunch turtlebot3_navigation turtlebot3_navigation.launch map_file:=$HOME/m
 This green arrow is a marker that can specify the destination of the robot.  
 The root of the arrow is x, y coordinate of the destination, and the angle θ is determined by the orientation of the arrow.  
 As soon as x, y, θ are set, TurtleBot3 will start moving to the destination immediately.  
+  
+    
+   This is what your end result look like  
+   ![image](https://user-images.githubusercontent.com/85397914/124817294-46ade780-df72-11eb-8121-c1ee53cf395d.png)
+
 
 
 
