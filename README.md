@@ -1,5 +1,5 @@
 # TurtleBot3-Navigation  
-1-open a new terminal
+1-open a new terminal  
 2- Launch Simulation World
  ```
 $ export TURTLEBOT3_MODEL=burger
